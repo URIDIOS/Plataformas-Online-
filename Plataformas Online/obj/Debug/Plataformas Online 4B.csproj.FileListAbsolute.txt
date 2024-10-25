@@ -1,0 +1,320 @@
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Plataformas Online 4B.dll.config
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Plataformas Online 4B.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Plataformas Online 4B.pdb
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csc.exe
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csc.exe.config
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csc.rsp
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csi.exe
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csi.exe.config
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\csi.rsp
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.AppContext.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Console.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.IO.Compression.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Net.Http.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Net.Sockets.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.ValueTuple.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\vbc.exe
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\vbc.exe.config
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\vbc.rsp
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Newtonsoft.Json.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Helpers.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Mvc.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Razor.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.Razor.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Newtonsoft.Json.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Razor.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Webpages.Razor.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Helpers.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\System.Web.Mvc.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Razor.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Webpages.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Helpers.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\bin\es\System.Web.Mvc.resources.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.AssemblyReference.cache
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.CopyComplete
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.dll
+C:\Users\prueb\Desktop\Practicas de las APIS\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.pdb
+F:\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.dll.config
+F:\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.pdb
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.exe
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.exe.config
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.rsp
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.exe
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.exe.config
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.rsp
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Managed.Core.targets
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.AppContext.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Collections.Immutable.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Console.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Globalization.Calendars.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.Compression.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Net.Http.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Net.Sockets.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Reflection.Metadata.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.ValueTuple.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XmlDocument.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.exe
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.exe.config
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.rsp
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe
+F:\practicas de las apis\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe.config
+F:\practicas de las apis\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\Microsoft.Web.Infrastructure.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\Newtonsoft.Json.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Helpers.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Mvc.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Razor.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Razor.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\Newtonsoft.Json.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Razor.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Razor.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Helpers.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\System.Web.Mvc.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Razor.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Helpers.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Mvc.resources.dll
+F:\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.AssemblyReference.cache
+F:\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.CoreCompileInputs.cache
+F:\practicas de las apis\Plataformas Online 4B\obj\Debug\Platafor.2F5DB339.Up2Date
+F:\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.dll
+F:\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.pdb
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.dll.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Plataformas Online 4B.pdb
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csc.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\csi.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.AppContext.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Console.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.Compression.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Net.Http.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.ValueTuple.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\vbc.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Newtonsoft.Json.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Helpers.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Mvc.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Razor.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Razor.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Newtonsoft.Json.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Razor.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Webpages.Razor.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Helpers.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\System.Web.Mvc.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Razor.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.AssemblyReference.cache
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\obj\Debug\Platafor.2F5DB339.Up2Date
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online 4B\obj\Debug\Plataformas Online 4B.pdb
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Plataformas Online 4B.dll.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Plataformas Online 4B.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Plataformas Online 4B.pdb
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csc.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csc.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csc.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csi.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csi.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\csi.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.AppContext.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Console.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.IO.Compression.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Net.Http.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.ValueTuple.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\vbc.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\vbc.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\vbc.rsp
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\VBCSCompiler.exe
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Newtonsoft.Json.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Helpers.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Mvc.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Razor.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.Deployment.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.Razor.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Newtonsoft.Json.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Razor.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.Deployment.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Webpages.Razor.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Helpers.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\System.Web.Mvc.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Razor.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Webpages.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\obj\Debug\Plataformas Online 4B.csproj.AssemblyReference.cache
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\obj\Debug\Plataformas Online 4B.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\obj\Debug\Platafor.2F5DB339.Up2Date
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\obj\Debug\Plataformas Online 4B.dll
+C:\Users\cisco01\Downloads\practicas de las apis\Plataformas Online\obj\Debug\Plataformas Online 4B.pdb
